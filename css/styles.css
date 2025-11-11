@@ -713,7 +713,7 @@ body {
   background-image: url("../images/IMG_0161.JPG");
 }
 #participant-44 .participant-name::before {
-  content: "44_Warissara(มีน)";
+  content: "44_Warissara/(มีน)";
 }
 #participant-44 .participant-quote::before {
   content: "start small ,dream wide."
